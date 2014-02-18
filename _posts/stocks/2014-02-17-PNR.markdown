@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "PNR"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+PNR（Pentair, Inc.）是USA著名上市公司，
+公司主要从事Industrial Equipment & Components行业，当前市值15527.08百万美元。
+
+# 市场表现
+
+![PNR](http://finviz.com/chart.ashx?t=PNR&ty=c&ta=1&p=d&s=l)
+
+PNR 昨日收盘价 $78.38，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+PNR 目前静态市盈率为29.69, 动态市盈率为15.83，每股收益2.64美元,
+市场估值较为合理。

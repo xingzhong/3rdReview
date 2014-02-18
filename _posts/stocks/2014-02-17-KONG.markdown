@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "KONG"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+KONG（Kongzhong Corp.）是China著名上市公司，
+公司主要从事Multimedia & Graphics Software行业，当前市值369.31百万美元。
+
+# 市场表现
+
+![KONG](http://finviz.com/chart.ashx?t=KONG&ty=c&ta=1&p=d&s=l)
+
+KONG 昨日收盘价 $8.49，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以下。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+KONG 目前静态市盈率为53.06, 动态市盈率为15.72，每股收益0.16美元,
+市场估值较为合理。

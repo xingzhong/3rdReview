@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "OPEN"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+OPEN（OpenTable, Inc.）是USA著名上市公司，
+公司主要从事Internet Information Providers行业，当前市值1692.47百万美元。
+
+# 市场表现
+
+![OPEN](http://finviz.com/chart.ashx?t=OPEN&ty=c&ta=1&p=d&s=l)
+
+OPEN 昨日收盘价 $72.61，
+交易量较正常情况有所放大。
+目前股价处于20日均线以下，
+50日均线以下，
+并且接近200日均线。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+OPEN 目前静态市盈率为52.24, 动态市盈率为31.49，每股收益1.39美元,
+市场估值较为合理。

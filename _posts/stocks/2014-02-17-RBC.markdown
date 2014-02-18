@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "RBC"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+RBC（Regal Beloit Corporation）是USA著名上市公司，
+公司主要从事Industrial Electrical Equipment行业，当前市值3281.03百万美元。
+
+# 市场表现
+
+![RBC](http://finviz.com/chart.ashx?t=RBC&ty=c&ta=1&p=d&s=l)
+
+RBC 昨日收盘价 $72.75，
+交易量较正常情况有所放大。
+目前股价处于20日均线以下，
+50日均线以下，
+并且处于200日均线以上。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+RBC 目前静态市盈率为17.83, 动态市盈率为13.72，每股收益4.08美元,
+市场估值较为合理。

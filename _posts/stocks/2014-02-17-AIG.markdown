@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "AIG"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+AIG（American International Group, Inc.）是USA著名上市公司，
+公司主要从事Property & Casualty Insurance行业，当前市值72248.1百万美元。
+
+# 市场表现
+
+![AIG](http://finviz.com/chart.ashx?t=AIG&ty=c&ta=1&p=d&s=l)
+
+AIG 昨日收盘价 $48.98，
+交易量较正常情况有所放大。
+目前股价接近20日均线，
+50日均线以下，
+并且处于200日均线以上。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+AIG 目前静态市盈率为10.18, 动态市盈率为9.74，每股收益4.81美元,
+市场对其估值较为保守。

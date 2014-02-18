@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "CCIX"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+CCIX（Coleman Cable, Inc.）是USA著名上市公司，
+公司主要从事Industrial Electrical Equipment行业，当前市值480.64百万美元。
+
+# 市场表现
+
+![CCIX](http://finviz.com/chart.ashx?t=CCIX&ty=c&ta=1&p=d&s=l)
+
+CCIX 昨日收盘价 $26.25，
+交易保持平稳。
+目前股价接近20日均线，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+投资者应当考虑超买的风险。
+
+# 公司分析
+CCIX 目前静态市盈率为23.23, 动态市盈率为14.58，每股收益1.13美元,
+市场估值较为合理。

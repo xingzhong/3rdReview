@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "GERN"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+GERN（Geron Corporation）是USA著名上市公司，
+公司主要从事Biotechnology行业，当前市值637.62百万美元。
+
+# 市场表现
+
+![GERN](http://finviz.com/chart.ashx?t=GERN&ty=c&ta=1&p=d&s=l)
+
+GERN 昨日收盘价 $4.97，
+交易量较正常情况有所放大。
+目前股价接近20日均线，
+接近50日均线，
+并且处于200日均线以上。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+GERN 目前静态市盈率为nan, 动态市盈率为nan，每股收益-0.35美元,
+市场估值较为合理。

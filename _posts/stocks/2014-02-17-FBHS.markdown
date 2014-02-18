@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "FBHS"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+FBHS（Fortune Brands Home & Security, Inc.）是USA著名上市公司，
+公司主要从事Home Furnishings & Fixtures行业，当前市值7886.77百万美元。
+
+# 市场表现
+
+![FBHS](http://finviz.com/chart.ashx?t=FBHS&ty=c&ta=1&p=d&s=l)
+
+FBHS 昨日收盘价 $45.88，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+FBHS 目前静态市盈率为34.24, 动态市盈率为18.51，每股收益1.34美元,
+市场估值较为合理。

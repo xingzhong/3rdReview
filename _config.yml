@@ -1,0 +1,5 @@
+name: 第三方评论
+markdown: redcarpet
+pygments: true
+destination: /var/www
+

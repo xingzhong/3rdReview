@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "ARPI"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+ARPI（American Residential Properties, Inc.）是USA著名上市公司，
+公司主要从事REIT - Residential行业，当前市值594.31百万美元。
+
+# 市场表现
+
+![ARPI](http://finviz.com/chart.ashx?t=ARPI&ty=c&ta=1&p=d&s=l)
+
+ARPI 昨日收盘价 $18.5，
+交易量较正常情况有所放大。
+目前股价接近20日均线，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+ARPI 目前静态市盈率为nan, 动态市盈率为nan，每股收益-0.99美元,
+市场估值较为合理。

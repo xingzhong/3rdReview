@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "POT"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+POT（Potash Corp. of Saskatchewan, Inc.）是Canada著名上市公司，
+公司主要从事Agricultural Chemicals行业，当前市值29161.85百万美元。
+
+# 市场表现
+
+![POT](http://finviz.com/chart.ashx?t=POT&ty=c&ta=1&p=d&s=l)
+
+POT 昨日收盘价 $33.67，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且接近200日均线。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+POT 目前静态市盈率为14.9, 动态市盈率为16.5，每股收益2.26美元,
+市场估值较为合理。

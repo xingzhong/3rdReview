@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "CRUS"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+CRUS（Cirrus Logic Inc.）是USA著名上市公司，
+公司主要从事Semiconductor - Specialized行业，当前市值1142.69百万美元。
+
+# 市场表现
+
+![CRUS](http://finviz.com/chart.ashx?t=CRUS&ty=c&ta=1&p=d&s=l)
+
+CRUS 昨日收盘价 $18.18，
+交易量较正常情况有所放大。
+目前股价处于20日均线以下，
+50日均线以下，
+并且处于200日均线以下。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+CRUS 目前静态市盈率为9.72, 动态市盈率为11.0，每股收益1.87美元,
+市场估值较为合理。

@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "ATHM"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+ATHM（Autohome Inc.）是China著名上市公司，
+公司主要从事Internet Information Providers行业，当前市值3576.22百万美元。
+
+# 市场表现
+
+![ATHM](http://finviz.com/chart.ashx?t=ATHM&ty=c&ta=1&p=d&s=l)
+
+ATHM 昨日收盘价 $34.4，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+ATHM 目前静态市盈率为nan, 动态市盈率为5.72，每股收益nan美元,
+市场对其估值较为保守。

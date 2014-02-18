@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "OMI"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+OMI（Owens & Minor Inc.）是USA著名上市公司，
+公司主要从事Medical Equipment Wholesale行业，当前市值2209.96百万美元。
+
+# 市场表现
+
+![OMI](http://finviz.com/chart.ashx?t=OMI&ty=c&ta=1&p=d&s=l)
+
+OMI 昨日收盘价 $35.3，
+交易量较正常情况有所放大。
+目前股价接近20日均线，
+50日均线以下，
+并且接近200日均线。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+OMI 目前静态市盈率为20.64, 动态市盈率为16.37，每股收益1.71美元,
+市场估值较为合理。

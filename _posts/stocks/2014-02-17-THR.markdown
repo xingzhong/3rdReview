@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "THR"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+THR（Thermon Group Holdings, Inc.）是USA著名上市公司，
+公司主要从事Diversified Machinery行业，当前市值784.01百万美元。
+
+# 市场表现
+
+![THR](http://finviz.com/chart.ashx?t=THR&ty=c&ta=1&p=d&s=l)
+
+THR 昨日收盘价 $24.74，
+交易量较正常情况有所放大。
+目前股价处于20日均线以下，
+50日均线以下，
+并且处于200日均线以上。
+从短期市场走势来看，
+该股票已经超卖，投资者应当谨慎关注。
+
+# 公司分析
+THR 目前静态市盈率为36.93, 动态市盈率为18.18，每股收益0.67美元,
+市场估值较为合理。

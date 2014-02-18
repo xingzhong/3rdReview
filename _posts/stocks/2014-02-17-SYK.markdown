@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "SYK"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+SYK（Stryker Corp.）是USA著名上市公司，
+公司主要从事Medical Appliances & Equipment行业，当前市值31539.64百万美元。
+
+# 市场表现
+
+![SYK](http://finviz.com/chart.ashx?t=SYK&ty=c&ta=1&p=d&s=l)
+
+SYK 昨日收盘价 $83.35，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+投资者应当考虑超买的风险。
+
+# 公司分析
+SYK 目前静态市盈率为31.69, 动态市盈率为15.82，每股收益2.63美元,
+市场估值较为合理。

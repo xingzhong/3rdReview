@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "DAN"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+DAN（Dana Holding Corporation）是USA著名上市公司，
+公司主要从事Auto Parts行业，当前市值2945.16百万美元。
+
+# 市场表现
+
+![DAN](http://finviz.com/chart.ashx?t=DAN&ty=c&ta=1&p=d&s=l)
+
+DAN 昨日收盘价 $20.2，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且接近200日均线。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+DAN 目前静态市盈率为nan, 动态市盈率为10.74，每股收益-0.09美元,
+市场估值较为合理。

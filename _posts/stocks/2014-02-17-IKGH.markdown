@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "IKGH"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+IKGH（Iao Kun Group Holding Company Limited）是Hong Kong著名上市公司，
+公司主要从事Gaming Activities行业，当前市值168.95百万美元。
+
+# 市场表现
+
+![IKGH](http://finviz.com/chart.ashx?t=IKGH&ty=c&ta=1&p=d&s=l)
+
+IKGH 昨日收盘价 $2.63，
+交易量较正常情况有所放大。
+目前股价处于20日均线以下，
+50日均线以下，
+并且处于200日均线以下。
+从短期市场走势来看，
+该股票已经超卖，投资者应当谨慎关注。
+
+# 公司分析
+IKGH 目前静态市盈率为6.41, 动态市盈率为nan，每股收益0.41美元,
+市场估值较为合理。

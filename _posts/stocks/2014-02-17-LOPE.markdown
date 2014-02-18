@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "LOPE"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+LOPE（Grand Canyon Education, Inc.）是USA著名上市公司，
+公司主要从事Education & Training Services行业，当前市值2046.72百万美元。
+
+# 市场表现
+
+![LOPE](http://finviz.com/chart.ashx?t=LOPE&ty=c&ta=1&p=d&s=l)
+
+LOPE 昨日收盘价 $45.52，
+交易量较正常情况有所放大。
+目前股价接近20日均线，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+LOPE 目前静态市盈率为25.01, 动态市盈率为21.69，每股收益1.82美元,
+市场估值较为合理。

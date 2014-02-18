@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "RGA"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+RGA（Reinsurance Group of America Inc.）是USA著名上市公司，
+公司主要从事Life Insurance行业，当前市值5299.97百万美元。
+
+# 市场表现
+
+![RGA](http://finviz.com/chart.ashx?t=RGA&ty=c&ta=1&p=d&s=l)
+
+RGA 昨日收盘价 $74.3，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+接近50日均线，
+并且处于200日均线以上。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+RGA 目前静态市盈率为12.88, 动态市盈率为8.75，每股收益5.77美元,
+市场对其估值较为保守。

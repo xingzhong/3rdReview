@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "ABT"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+ABT（Abbott Laboratories）是USA著名上市公司，
+公司主要从事Medical Appliances & Equipment行业，当前市值60815.27百万美元。
+
+# 市场表现
+
+![ABT](http://finviz.com/chart.ashx?t=ABT&ty=c&ta=1&p=d&s=l)
+
+ABT 昨日收盘价 $38.81，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+ABT 目前静态市盈率为25.53, 动态市盈率为15.71，每股收益1.52美元,
+市场估值较为合理。

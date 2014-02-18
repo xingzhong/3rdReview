@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "EPAM"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+EPAM（EPAM Systems, Inc.）是USA著名上市公司，
+公司主要从事Information Technology Services行业，当前市值2047.28百万美元。
+
+# 市场表现
+
+![EPAM](http://finviz.com/chart.ashx?t=EPAM&ty=c&ta=1&p=d&s=l)
+
+EPAM 昨日收盘价 $44.35，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+投资者应当考虑超买的风险。
+
+# 公司分析
+EPAM 目前静态市盈率为36.65, 动态市盈率为22.98，每股收益1.21美元,
+市场估值较为合理。

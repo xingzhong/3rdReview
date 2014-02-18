@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "CECO"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+CECO（Career Education Corp.）是USA著名上市公司，
+公司主要从事Education & Training Services行业，当前市值392.4百万美元。
+
+# 市场表现
+
+![CECO](http://finviz.com/chart.ashx?t=CECO&ty=c&ta=1&p=d&s=l)
+
+CECO 昨日收盘价 $5.87，
+交易量较正常情况有所放大。
+目前股价接近20日均线，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+CECO 目前静态市盈率为nan, 动态市盈率为nan，每股收益-2.29美元,
+市场估值较为合理。

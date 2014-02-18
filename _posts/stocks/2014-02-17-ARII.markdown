@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "ARII"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+ARII（American Railcar Industries, Inc.）是USA著名上市公司，
+公司主要从事Railroads行业，当前市值1067.39百万美元。
+
+# 市场表现
+
+![ARII](http://finviz.com/chart.ashx?t=ARII&ty=c&ta=1&p=d&s=l)
+
+ARII 昨日收盘价 $49.99，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+ARII 目前静态市盈率为12.28, 动态市盈率为11.52，每股收益4.07美元,
+市场估值较为合理。

@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "COO"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+COO（The Cooper Companies Inc.）是USA著名上市公司，
+公司主要从事Medical Instruments & Supplies行业，当前市值6085.05百万美元。
+
+# 市场表现
+
+![COO](http://finviz.com/chart.ashx?t=COO&ty=c&ta=1&p=d&s=l)
+
+COO 昨日收盘价 $124.96，
+交易量较正常情况有所放大。
+目前股价接近20日均线，
+接近50日均线，
+并且接近200日均线。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+COO 目前静态市盈率为21.0, 动态市盈率为16.19，每股收益5.95美元,
+市场估值较为合理。

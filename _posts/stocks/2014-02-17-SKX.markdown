@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "SKX"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+SKX（Skechers USA Inc.）是USA著名上市公司，
+公司主要从事Textile - Apparel Footwear & Accessories行业，当前市值1787.44百万美元。
+
+# 市场表现
+
+![SKX](http://finviz.com/chart.ashx?t=SKX&ty=c&ta=1&p=d&s=l)
+
+SKX 昨日收盘价 $35.47，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+投资者应当考虑超买的风险。
+
+# 公司分析
+SKX 目前静态市盈率为40.31, 动态市盈率为15.26，每股收益0.88美元,
+市场估值较为合理。

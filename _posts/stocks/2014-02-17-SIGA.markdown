@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "SIGA"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+SIGA（SIGA Technologies, Inc.）是USA著名上市公司，
+公司主要从事Drug Manufacturers - Major行业，当前市值176.56百万美元。
+
+# 市场表现
+
+![SIGA](http://finviz.com/chart.ashx?t=SIGA&ty=c&ta=1&p=d&s=l)
+
+SIGA 昨日收盘价 $3.36，
+交易量较正常情况有所放大。
+目前股价接近20日均线，
+50日均线以上，
+并且接近200日均线。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+SIGA 目前静态市盈率为nan, 动态市盈率为3.73，每股收益-0.3美元,
+市场对其估值较为保守。

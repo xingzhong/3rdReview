@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "DXCM"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+DXCM（DexCom, Inc.）是USA著名上市公司，
+公司主要从事Medical Instruments & Supplies行业，当前市值3100.19百万美元。
+
+# 市场表现
+
+![DXCM](http://finviz.com/chart.ashx?t=DXCM&ty=c&ta=1&p=d&s=l)
+
+DXCM 昨日收盘价 $43.42，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+投资者应当考虑超买的风险。
+
+# 公司分析
+DXCM 目前静态市盈率为nan, 动态市盈率为nan，每股收益-0.51美元,
+市场估值较为合理。

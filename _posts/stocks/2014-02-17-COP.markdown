@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "COP"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+COP（ConocoPhillips）是USA著名上市公司，
+公司主要从事Oil & Gas Drilling & Exploration行业，当前市值80847.05百万美元。
+
+# 市场表现
+
+![COP](http://finviz.com/chart.ashx?t=COP&ty=c&ta=1&p=d&s=l)
+
+COP 昨日收盘价 $65.53，
+交易量较正常情况有所放大。
+目前股价接近20日均线，
+50日均线以下，
+并且接近200日均线。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+COP 目前静态市盈率为10.18, 动态市盈率为10.69，每股收益6.44美元,
+市场估值较为合理。

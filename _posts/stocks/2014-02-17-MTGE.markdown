@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "MTGE"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+MTGE（American Capital Mortgage Investment Crp）是USA著名上市公司，
+公司主要从事REIT - Diversified行业，当前市值1081.58百万美元。
+
+# 市场表现
+
+![MTGE](http://finviz.com/chart.ashx?t=MTGE&ty=c&ta=1&p=d&s=l)
+
+MTGE 昨日收盘价 $19.84，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+MTGE 目前静态市盈率为132.27, 动态市盈率为7.65，每股收益0.15美元,
+市场对其估值较为保守。

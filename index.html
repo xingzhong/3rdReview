@@ -1,0 +1,35 @@
+---
+layout: default
+title: 第三方评论
+---
+
+<div id="home">
+	<input class="typeahead" type="text" placeholder="symbol" style="position: relative; vertical-align: top; background-color: transparent;">
+</div>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        // instantiate the bloodhound suggestion engine
+        var numbers = new Bloodhound({
+          datumTokenizer: function(d) { return Bloodhound.tokenizers.whitespace(d.symbol); },
+          queryTokenizer: Bloodhound.tokenizers.whitespace,
+          local: [
+            {% for post in site.posts %}
+              { symbol: "{{post.title}}",
+                url: "{{post.url}}" },
+            {% endfor %}
+          ]
+        });
+         
+        // initialize the bloodhound suggestion engine
+        numbers.initialize();
+         
+        // instantiate the typeahead UI
+        $('.typeahead').typeahead(null, {
+          displayKey: 'symbol',
+          source: numbers.ttAdapter()
+        }).on('typeahead:selected', function(event, datum) {
+          window.location = datum.url
+        });;
+        console.log("ready");
+      });
+    </script>

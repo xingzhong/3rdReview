@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "KBALB"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+KBALB（Kimball International, Inc.）是USA著名上市公司，
+公司主要从事Printed Circuit Boards行业，当前市值703.73百万美元。
+
+# 市场表现
+
+![KBALB](http://finviz.com/chart.ashx?t=KBALB&ty=c&ta=1&p=d&s=l)
+
+KBALB 昨日收盘价 $18.31，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+投资者应当考虑超买的风险。
+
+# 公司分析
+KBALB 目前静态市盈率为24.09, 动态市盈率为19.69，每股收益0.76美元,
+市场估值较为合理。

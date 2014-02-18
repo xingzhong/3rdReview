@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "DLTR"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+DLTR（Dollar Tree, Inc.）是USA著名上市公司，
+公司主要从事Discount, Variety Stores行业，当前市值11245.87百万美元。
+
+# 市场表现
+
+![DLTR](http://finviz.com/chart.ashx?t=DLTR&ty=c&ta=1&p=d&s=l)
+
+DLTR 昨日收盘价 $51.92，
+交易量较正常情况有所放大。
+目前股价接近20日均线，
+50日均线以下，
+并且处于200日均线以下。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+DLTR 目前静态市盈率为19.02, 动态市盈率为15.85，每股收益2.73美元,
+市场估值较为合理。

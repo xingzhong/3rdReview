@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "JDSU"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+JDSU（JDS Uniphase Corporation）是USA著名上市公司，
+公司主要从事Communication Equipment行业，当前市值3189.77百万美元。
+
+# 市场表现
+
+![JDSU](http://finviz.com/chart.ashx?t=JDSU&ty=c&ta=1&p=d&s=l)
+
+JDSU 昨日收盘价 $13.69，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且接近200日均线。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+JDSU 目前静态市盈率为48.89, 动态市盈率为16.43，每股收益0.28美元,
+市场估值较为合理。

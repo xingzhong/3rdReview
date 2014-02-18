@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "PBA"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+PBA（Pembina Pipeline Corporation）是Canada著名上市公司，
+公司主要从事Oil & Gas Pipelines行业，当前市值11249.22百万美元。
+
+# 市场表现
+
+![PBA](http://finviz.com/chart.ashx?t=PBA&ty=c&ta=1&p=d&s=l)
+
+PBA 昨日收盘价 $35.94，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+投资者应当考虑超买的风险。
+
+# 公司分析
+PBA 目前静态市盈率为31.81, 动态市盈率为27.65，每股收益1.13美元,
+市场估值较为合理。

@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "ENH"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+ENH（Endurance Specialty Holdings Ltd.）是Bermuda著名上市公司，
+公司主要从事Property & Casualty Insurance行业，当前市值2311.02百万美元。
+
+# 市场表现
+
+![ENH](http://finviz.com/chart.ashx?t=ENH&ty=c&ta=1&p=d&s=l)
+
+ENH 昨日收盘价 $53.61，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以下，
+并且处于200日均线以上。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+ENH 目前静态市盈率为8.26, 动态市盈率为10.48，每股收益6.49美元,
+市场估值较为合理。

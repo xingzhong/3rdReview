@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "RE"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+RE（Everest Re Group Ltd.）是Bermuda著名上市公司，
+公司主要从事Property & Casualty Insurance行业，当前市值7086.18百万美元。
+
+# 市场表现
+
+![RE](http://finviz.com/chart.ashx?t=RE&ty=c&ta=1&p=d&s=l)
+
+RE 昨日收盘价 $147.23，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+接近50日均线，
+并且处于200日均线以上。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+RE 目前静态市盈率为6.11, 动态市盈率为7.71，每股收益24.09美元,
+市场对其估值较为保守。

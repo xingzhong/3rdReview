@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "FTK"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+FTK（Flotek Industries Inc.）是USA著名上市公司，
+公司主要从事Specialty Chemicals行业，当前市值1271.08百万美元。
+
+# 市场表现
+
+![FTK](http://finviz.com/chart.ashx?t=FTK&ty=c&ta=1&p=d&s=l)
+
+FTK 昨日收盘价 $24.1，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+投资者应当考虑超买的风险。
+
+# 公司分析
+FTK 目前静态市盈率为26.78, 动态市盈率为17.21，每股收益0.9美元,
+市场估值较为合理。

@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "ARCC"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+ARCC（Ares Capital Corporation）是USA著名上市公司，
+公司主要从事Diversified Investments行业，当前市值4939.62百万美元。
+
+# 市场表现
+
+![ARCC](http://finviz.com/chart.ashx?t=ARCC&ty=c&ta=1&p=d&s=l)
+
+ARCC 昨日收盘价 $18.41，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+投资者应当考虑超买的风险。
+
+# 公司分析
+ARCC 目前静态市盈率为8.89, 动态市盈率为11.11，每股收益2.07美元,
+市场估值较为合理。

@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "MXWL"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+MXWL（Maxwell Technologies Inc.）是USA著名上市公司，
+公司主要从事Diversified Electronics行业，当前市值258.56百万美元。
+
+# 市场表现
+
+![MXWL](http://finviz.com/chart.ashx?t=MXWL&ty=c&ta=1&p=d&s=l)
+
+MXWL 昨日收盘价 $8.96，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+MXWL 目前静态市盈率为21.33, 动态市盈率为51.2，每股收益0.42美元,
+市场对其估值较高。

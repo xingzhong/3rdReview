@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "BXMT"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+BXMT（Blackstone Mortgage Trust, Inc.）是USA著名上市公司，
+公司主要从事REIT - Diversified行业，当前市值827.26百万美元。
+
+# 市场表现
+
+![BXMT](http://finviz.com/chart.ashx?t=BXMT&ty=c&ta=1&p=d&s=l)
+
+BXMT 昨日收盘价 $28.63，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+BXMT 目前静态市盈率为0.7, 动态市盈率为14.5，每股收益40.63美元,
+市场估值较为合理。

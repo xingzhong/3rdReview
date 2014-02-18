@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "NGG"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+NGG（National Grid plc）是United Kingdom著名上市公司，
+公司主要从事Gas Utilities行业，当前市值50647.28百万美元。
+
+# 市场表现
+
+![NGG](http://finviz.com/chart.ashx?t=NGG&ty=c&ta=1&p=d&s=l)
+
+NGG 昨日收盘价 $67.91，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+投资者应当考虑超买的风险。
+
+# 公司分析
+NGG 目前静态市盈率为12.15, 动态市盈率为15.09，每股收益5.59美元,
+市场估值较为合理。

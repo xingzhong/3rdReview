@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "GFIG"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+GFIG（GFI Group Inc.）是USA著名上市公司，
+公司主要从事Investment Brokerage - National行业，当前市值465.68百万美元。
+
+# 市场表现
+
+![GFIG](http://finviz.com/chart.ashx?t=GFIG&ty=c&ta=1&p=d&s=l)
+
+GFIG 昨日收盘价 $3.87，
+交易量较正常情况有所放大。
+目前股价接近20日均线，
+接近50日均线，
+并且接近200日均线。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+GFIG 目前静态市盈率为nan, 动态市盈率为12.09，每股收益-0.01美元,
+市场估值较为合理。

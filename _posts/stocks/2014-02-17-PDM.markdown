@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "PDM"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+PDM（Piedmont Office Realty Trust Inc.）是USA著名上市公司，
+公司主要从事REIT - Office行业，当前市值2784.79百万美元。
+
+# 市场表现
+
+![PDM](http://finviz.com/chart.ashx?t=PDM&ty=c&ta=1&p=d&s=l)
+
+PDM 昨日收盘价 $16.91，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以下。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+PDM 目前静态市盈率为38.43, 动态市盈率为54.55，每股收益0.44美元,
+市场对其估值较高。

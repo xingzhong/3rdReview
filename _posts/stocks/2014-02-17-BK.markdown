@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "BK"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+BK（The Bank of New York Mellon Corporation）是USA著名上市公司，
+公司主要从事Asset Management行业，当前市值36331.55百万美元。
+
+# 市场表现
+
+![BK](http://finviz.com/chart.ashx?t=BK&ty=c&ta=1&p=d&s=l)
+
+BK 昨日收盘价 $31.79，
+交易量较正常情况有所放大。
+目前股价接近20日均线，
+50日均线以下，
+并且处于200日均线以上。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+BK 目前静态市盈率为18.27, 动态市盈率为11.73，每股收益1.74美元,
+市场估值较为合理。

@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "MPEL"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+MPEL（Melco Crown Entertainment Ltd.）是Hong Kong著名上市公司，
+公司主要从事Resorts & Casinos行业，当前市值23447.31百万美元。
+
+# 市场表现
+
+![MPEL](http://finviz.com/chart.ashx?t=MPEL&ty=c&ta=1&p=d&s=l)
+
+MPEL 昨日收盘价 $42.62，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+MPEL 目前静态市盈率为45.34, 动态市盈率为21.48，每股收益0.94美元,
+市场估值较为合理。

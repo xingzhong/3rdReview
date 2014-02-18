@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "ACO"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+ACO（Amcol International Corp.）是USA著名上市公司，
+公司主要从事Industrial Metals & Minerals行业，当前市值1475.8百万美元。
+
+# 市场表现
+
+![ACO](http://finviz.com/chart.ashx?t=ACO&ty=c&ta=1&p=d&s=l)
+
+ACO 昨日收盘价 $45.27，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以上。
+从短期市场走势来看，
+投资者应当考虑超买的风险。
+
+# 公司分析
+ACO 目前静态市盈率为42.31, 动态市盈率为17.99，每股收益1.07美元,
+市场估值较为合理。

@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "CHL"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+CHL（China Mobile Limited）是Hong Kong著名上市公司，
+公司主要从事Wireless Communications行业，当前市值193287.95百万美元。
+
+# 市场表现
+
+![CHL](http://finviz.com/chart.ashx?t=CHL&ty=c&ta=1&p=d&s=l)
+
+CHL 昨日收盘价 $48.08，
+交易量较正常情况有所放大。
+目前股价接近20日均线，
+50日均线以下，
+并且处于200日均线以下。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+CHL 目前静态市盈率为9.12, 动态市盈率为10.6，每股收益5.27美元,
+市场估值较为合理。

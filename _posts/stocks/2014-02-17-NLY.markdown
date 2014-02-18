@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "NLY"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+NLY（Annaly Capital Management, Inc.）是USA著名上市公司，
+公司主要从事REIT - Diversified行业，当前市值10230.87百万美元。
+
+# 市场表现
+
+![NLY](http://finviz.com/chart.ashx?t=NLY&ty=c&ta=1&p=d&s=l)
+
+NLY 昨日收盘价 $10.8，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以上，
+并且处于200日均线以下。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+NLY 目前静态市盈率为3.06, 动态市盈率为9.53，每股收益3.53美元,
+市场对其估值较为保守。

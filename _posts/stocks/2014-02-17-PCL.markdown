@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "PCL"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+PCL（Plum Creek Timber Co. Inc.）是USA著名上市公司，
+公司主要从事Lumber, Wood Production行业，当前市值7303.2百万美元。
+
+# 市场表现
+
+![PCL](http://finviz.com/chart.ashx?t=PCL&ty=c&ta=1&p=d&s=l)
+
+PCL 昨日收盘价 $42.96，
+交易量较正常情况有所放大。
+目前股价接近20日均线，
+50日均线以下，
+并且处于200日均线以下。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+PCL 目前静态市盈率为33.05, 动态市盈率为26.49，每股收益1.3美元,
+市场估值较为合理。

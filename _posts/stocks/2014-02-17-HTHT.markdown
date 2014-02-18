@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "HTHT"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+HTHT（China Lodging Group, Limited）是China著名上市公司，
+公司主要从事Lodging行业，当前市值1633.8百万美元。
+
+# 市场表现
+
+![HTHT](http://finviz.com/chart.ashx?t=HTHT&ty=c&ta=1&p=d&s=l)
+
+HTHT 昨日收盘价 $26.65，
+交易量较正常情况有所放大。
+目前股价处于20日均线以下，
+50日均线以下，
+并且处于200日均线以上。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+HTHT 目前静态市盈率为42.3, 动态市盈率为26.18，每股收益0.63美元,
+市场估值较为合理。

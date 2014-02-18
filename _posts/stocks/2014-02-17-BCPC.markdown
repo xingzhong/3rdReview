@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "BCPC"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+BCPC（Balchem Corp.）是USA著名上市公司，
+公司主要从事Chemicals - Major Diversified行业，当前市值1506.79百万美元。
+
+# 市场表现
+
+![BCPC](http://finviz.com/chart.ashx?t=BCPC&ty=c&ta=1&p=d&s=l)
+
+BCPC 昨日收盘价 $50.72，
+交易量较正常情况有所放大。
+目前股价处于20日均线以下，
+50日均线以下，
+并且处于200日均线以下。
+从短期市场走势来看，
+该股票已经超卖，投资者应当谨慎关注。
+
+# 公司分析
+BCPC 目前静态市盈率为35.47, 动态市盈率为28.66，每股收益1.43美元,
+市场估值较为合理。

@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "QNST"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+QNST（QuinStreet, Inc.）是USA著名上市公司，
+公司主要从事Internet Software & Services行业，当前市值291.78百万美元。
+
+# 市场表现
+
+![QNST](http://finviz.com/chart.ashx?t=QNST&ty=c&ta=1&p=d&s=l)
+
+QNST 昨日收盘价 $6.72，
+交易量较正常情况有所放大。
+目前股价处于20日均线以下，
+50日均线以下，
+并且处于200日均线以下。
+从短期市场走势来看，
+该股票已经超卖，投资者应当谨慎关注。
+
+# 公司分析
+QNST 目前静态市盈率为nan, 动态市盈率为14.24，每股收益-1.12美元,
+市场估值较为合理。

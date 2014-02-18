@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "ACGL"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+ACGL（Arch Capital Group Ltd.）是Bermuda著名上市公司，
+公司主要从事Property & Casualty Insurance行业，当前市值7273.98百万美元。
+
+# 市场表现
+
+![ACGL](http://finviz.com/chart.ashx?t=ACGL&ty=c&ta=1&p=d&s=l)
+
+ACGL 昨日收盘价 $55.26，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+50日均线以下，
+并且接近200日均线。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+ACGL 目前静态市盈率为10.92, 动态市盈率为15.17，每股收益5.06美元,
+市场估值较为合理。

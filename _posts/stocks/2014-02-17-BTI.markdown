@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "BTI"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+BTI（British American Tobacco plc）是United Kingdom著名上市公司，
+公司主要从事Cigarettes行业，当前市值97814.97百万美元。
+
+# 市场表现
+
+![BTI](http://finviz.com/chart.ashx?t=BTI&ty=c&ta=1&p=d&s=l)
+
+BTI 昨日收盘价 $102.21，
+交易量较正常情况有所放大。
+目前股价处于20日均线以上，
+接近50日均线，
+并且处于200日均线以下。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+BTI 目前静态市盈率为14.99, 动态市盈率为14.6，每股收益6.82美元,
+市场估值较为合理。

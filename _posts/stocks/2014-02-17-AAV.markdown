@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "AAV"
+date:   2014-02-17 12:21:41
+categories: 观点
+---
+
+# 简介
+AAV（Advantage Oil & Gas Ltd.）是Canada著名上市公司，
+公司主要从事Oil & Gas Drilling & Exploration行业，当前市值520.7百万美元。
+
+# 市场表现
+
+![AAV](http://finviz.com/chart.ashx?t=AAV&ty=c&ta=1&p=d&s=l)
+
+AAV 昨日收盘价 $3.88，
+交易量较正常情况有所放大。
+目前股价处于20日均线以下，
+50日均线以下，
+并且处于200日均线以下。
+从短期市场走势来看，
+股价走势平稳，投资者应减少无谓的操作。
+
+# 公司分析
+AAV 目前静态市盈率为nan, 动态市盈率为nan，每股收益-0.32美元,
+市场估值较为合理。
